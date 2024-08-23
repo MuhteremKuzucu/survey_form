@@ -11,6 +11,7 @@ body{
     background-size: cover;
     height: 100vh;
     color: white;
+    background-attachment: fixed;
 }
 
 .container{
